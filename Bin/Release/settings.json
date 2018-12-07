@@ -1,0 +1,39 @@
+{
+  "Admins": [
+    "xxxxxx",
+    "xxxxxx"
+  ],
+  "ApiKey": "xxxxxx",
+  "mainLog": "syslog.log",
+  "UseSeparateProcesses": "false",
+  "AutoStartAllBots": "true",
+  "Bots": [
+    {
+      "Username": "xxxxxx",
+      "Password": "xxxxxx",
+      "UsesTwoFactorAuth": true,
+      "ApiKey": "xxxxxx",
+      "DisplayName": "Keys trade bot",
+      "logFile": "KeysBot.log",
+      "BotControlClass": "SteamBot.KeysTradeUserHandler",
+      "DisplayNamePrefix": "",
+      "TradeOfferRefreshRate": 500,
+      "ConsoleLogLevel": "Info",
+      "FileLogLevel": "Info",
+      "AutoStart": "true",
+      "SchemaLang": "en",
+      "CSGOKeyBuyPrice": "1k1.22r",
+      "Profit": "1.33",
+      "CSGOforCSGORate": "1",
+      "BannedCSGOKeys": 
+	  [
+		"Operation Vanguard Case Key",
+		"CS:GO Case Key"
+	  ],
+      "OfferMessage": "Thanks for the trade!",
+      "ProfileComment": "Thanks for using my service to exchange your keys!",
+      "WelcomeMessage": "Hello!",
+      "HelpText": "Commands list:\n!admin Gives you the Profile URL of my owner\n!price Gives you the prices for every type of trade I can accept\n!stock Gives you the stock of keys I have at the moment"
+    }
+  ]
+}
