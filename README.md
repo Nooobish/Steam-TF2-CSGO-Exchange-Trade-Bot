@@ -5,8 +5,8 @@ This is the bot which I used in past for "Tf2 // CS keys excange". It doesn't wo
 Buy and sell TF2 and CS-GO Keys
 
 ## Commands:
-1.!admin -- Gives you the Profile URL of my owner 
-2.!suggestprice -- If you think that we should change price then consider about suggesting new one :)
+1. !admin -- Gives you the Profile URL of my owner 
+2. !suggestprice -- If you think that we should change price then consider about suggesting new one :)
 3.!price -- Gives you the prices for every type of trade I can accept 
 4.!stock -- Gives you the stock of keys I have at the moment 
 5.!shutup -- I won't leave comment after successful trade 
